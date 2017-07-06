@@ -1,6 +1,10 @@
-img {
+img #logo {
 	height: 90px;
 	width: 270px;
+}
+
+.img-app {
+	width: 15spx:
 }
 
 .navbar-default {
