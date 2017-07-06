@@ -33,3 +33,26 @@ body {
   text-align: center;
   margin-top: 30px;
 }
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 20px;
+}
+
+div.btn-group {
+  margin: 0 auto;
+  text-align: center;
+  width: inherit;
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.btn-primary {
+  color: #757575;
+  background-color: #f2f2f2;
+  border-color: #fff;
+}
