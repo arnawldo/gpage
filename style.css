@@ -2,3 +2,17 @@ img {
 	height: 90px;
 	width: 270px;
 }
+
+.navbar-default {
+  max-height: 40px;
+  border-color: #fff;
+  color: #808080;
+}
+
+.navbar-right {
+  float: right;
+}
+
+body {
+  background-color: #fff;
+}
